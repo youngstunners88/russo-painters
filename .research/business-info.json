@@ -1,0 +1,20 @@
+{
+  "businessName": "Russo Painters",
+  "category": "handyman",
+  "brandColors": {
+    "primary": "#8E44AD",
+    "secondary": "#A569BD",
+    "accent": "#F39C12",
+    "dark": "#6C3483",
+    "light": "#F5EEF8"
+  },
+  "tagline": "Home Repair Experts",
+  "services": [
+    "General Repairs",
+    "Painting",
+    "Furniture Assembly",
+    "Door/Window Repairs",
+    "Maintenance",
+    "Renovations"
+  ]
+}
